@@ -1,4 +1,3 @@
 # 更新预告 Update Preview
-我将会在6月30日至7月1日发布“孝文帝汉化包”*1.1*版本，本次更新将会包含**机械动力 航空学**相关内容，敬请期待
-
-I will release version *1.1* of the *Emperor XiaoWen's Chinese translation pack* from June 30 to July 1. This update will include translations for **Create Aeronautics**. Stay tuned
+很抱歉，因为我的设备出现了故障，所以我必须延后1.1版本的发布，不过我承诺一旦设备恢复，我会立刻进行1.1版本的发布工作
+I sincerely apologize, but due to unexpected equipment failure, the release of version 1.1 must be delayed. Please rest assured that I will proceed with the release as soon as the device is restored.
