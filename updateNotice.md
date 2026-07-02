@@ -1,3 +1,3 @@
 # 更新预告 Update Preview
-很抱歉，因为我的设备出现了故障，所以我必须延后1.1版本的发布，不过我承诺一旦设备恢复，我会立刻进行1.1版本的发布工作
-I sincerely apologize, but due to unexpected equipment failure, the release of version 1.1 must be delayed. Please rest assured that I will proceed with the release as soon as the device is restored.
+我的设备已经恢复了，现在正在进行S1.1版本的测试，预计今天就能发布1.1正式版
+My device has been restored and is now undergoing testing of version S1.1. It is expected that the official version of 1.1 will be released today
