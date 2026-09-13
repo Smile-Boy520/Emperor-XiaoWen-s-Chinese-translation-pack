@@ -10,4 +10,5 @@ Note: Starting from version ***S1.1.1***, the ***Create Aeronautics*** mod itsel
 
 [Download](https://github.com/Smile-Boy520/Emperor-XiaoWen-s-Chinese-translation-pack/releases/tag/1.1)
 
-[Modrinth](https://modrinth.com/resourcepack/emperor-xiaowens-chinese-translation-pack)
+[Modrinth](https://modrinth.com/resourcepack/exctp)
+Attention! I've **ALREADY CHANGED** the url on Modrinth
